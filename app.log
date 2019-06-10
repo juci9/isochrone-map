@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-06-05T15:36:58</date>
+  <millis>1528205818692</millis>
+  <sequence>0</sequence>
+  <logger>fr.capgemini.log.WriteLogToFile</logger>
+  <level>INFO</level>
+  <class>fr.capgemini.log.WriteLogToFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2018-06-05T15:36:58</date>
+  <millis>1528205818722</millis>
+  <sequence>1</sequence>
+  <logger>fr.capgemini.log.WriteLogToFile</logger>
+  <level>WARNING</level>
+  <class>fr.capgemini.log.WriteLogToFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-06-05T15:43:33</date>
+  <millis>1528206213568</millis>
+  <sequence>0</sequence>
+  <logger>fr.capgemini.log.WriteLogToFile</logger>
+  <level>INFO</level>
+  <class>fr.capgemini.log.WriteLogToFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2018-06-05T15:43:33</date>
+  <millis>1528206213599</millis>
+  <sequence>1</sequence>
+  <logger>fr.capgemini.log.WriteLogToFile</logger>
+  <level>WARNING</level>
+  <class>fr.capgemini.log.WriteLogToFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-06-06T09:50:22</date>
+  <millis>1528271422745</millis>
+  <sequence>0</sequence>
+  <logger>fr.capgemini.log.WriteLogToFile</logger>
+  <level>INFO</level>
+  <class>fr.capgemini.log.WriteLogToFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2018-06-06T09:50:22</date>
+  <millis>1528271422778</millis>
+  <sequence>1</sequence>
+  <logger>fr.capgemini.log.WriteLogToFile</logger>
+  <level>WARNING</level>
+  <class>fr.capgemini.log.WriteLogToFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+</log>
